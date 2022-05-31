@@ -3,7 +3,7 @@ name: default
 
 steps:
 - name: test
-  image: racket/racket:latest
+  image: racket/racket:8.1-full
   commands:
   - raco pkg install sicp
   - raco test sicp
