@@ -5,6 +5,5 @@ steps:
 - name: test
   image: racket/racket:latest
   commands:
-  - make
-  - make test
-  - make lint
+  - raco pkg install sicp
+  - raco test sicp
