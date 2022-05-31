@@ -1,4 +1,4 @@
-# SICP in Recket Language
+# SICP in Racket Language
 [![github action status](https://github.com/hexlet-boilerplates/sicp-racket/workflows/Racket%20CI/badge.svg)](https://github.com/hexlet-boilerplates/sicp-racket/actions)
 
 ### Requirements
