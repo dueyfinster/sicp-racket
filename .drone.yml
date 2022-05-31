@@ -1,0 +1,10 @@
+kind: pipeline
+name: default
+
+steps:
+- name: test
+  image: racket
+  commands:
+  - make
+  - make test
+  - make lint
