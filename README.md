@@ -1,7 +1,5 @@
-# Sicp Racket Boilerplate
-
+# SICP in Recket Language
 [![github action status](https://github.com/hexlet-boilerplates/sicp-racket/workflows/Racket%20CI/badge.svg)](https://github.com/hexlet-boilerplates/sicp-racket/actions)
-[![drone ci status](https://drone.ballyda.com/api/badges/dueyfinster/sicp-racket/status.svg)](https://drone.ballyda.com/dueyfinster/sicp-racket/)
 
 ### Requirements
 
