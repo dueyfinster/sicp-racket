@@ -39,7 +39,7 @@
 
 
 (check-equal?
-(= a b) #f)
+ (= a b) #f)
 
 
 (check-equal?

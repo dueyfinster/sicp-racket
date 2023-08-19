@@ -16,8 +16,8 @@
 
 
 (define (solution x y z)
-  (apply sum-square (max-two x y z))
-)
+  (apply sum-square (max-two x y z)))
+
 
 (check-equal? (solution 6 5 4) 61)
 (check-equal? (solution 5 5 4) 50)

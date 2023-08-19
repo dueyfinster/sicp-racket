@@ -5,7 +5,7 @@
 
 ;; Describe the function below
 (define (a-plus-abs-b a b)
-((if (> b 0) + -) a b))
+ ((if (> b 0) + -) a b))
 ;; if b is greater than 0 - we add a + b
 ;; else we do a - b
 
