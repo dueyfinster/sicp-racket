@@ -1,5 +1,5 @@
 install:
-	raco pkg install review sicp 
+	raco pkg install --auto --force racket-langserver review sicp 
 
 test:
 	raco test sicp
